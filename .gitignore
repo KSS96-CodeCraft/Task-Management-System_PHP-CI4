@@ -1,0 +1,16 @@
+# Ignore CI writable folder
+writable/
+
+# Ignore env file (security)
+.env
+
+# Ignore vendor folder (dependencies)
+vendor/
+
+# Ignore composer.lock if you want
+composer.lock
+
+# Ignore IDE/editor files
+*.idea
+*.vscode
+.DS_Store
